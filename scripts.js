@@ -6,7 +6,7 @@ function clickYesButton() {
 }
 
 //move button on hover
-function hoverNoButton() {
+function clickNoButton() {
     // random from 0 to 1, then multiply with screen size
     let x = Math.random() * window.innerWidth;
     let y = Math.random() * window.innerHeight;
