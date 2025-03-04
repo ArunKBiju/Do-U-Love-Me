@@ -1,2 +1,1 @@
-# Lechu
-For someone special
+A funny "DO YOU LOVE ME" theme based project
